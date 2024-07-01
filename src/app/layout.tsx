@@ -38,8 +38,8 @@ export default function RootLayout({
                   <Image
                     src="/ar-logo.svg"
                     alt="Animal Reference Logo"
-                    width={200}
-                    height={39}
+                    width={278}
+                    height={55}
                     priority
                   />
                 </Link>
