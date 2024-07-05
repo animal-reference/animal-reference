@@ -18,7 +18,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.className} bg-gray-100 text-white`}>
+      <body className={`${inter.className} bg-gray-300 text-white`}>
         <div className="max-w-layout mx-auto bg-white shadow-lg">
           <header>
             <div className="bg-gray-500 text-sm">
