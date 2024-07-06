@@ -36,7 +36,7 @@ export default function RootLayout({
               <div className="pl-logo-left pr-4 py-logo-y flex justify-between items-center">
                 <Link href="/" className="flex items-center logo-container">
                   <Image
-                    src="/ar-logo.svg"
+                    src="/images/ar-logo.svg"
                     alt="Animal Reference Logo"
                     width={278}
                     height={55}
@@ -60,7 +60,7 @@ export default function RootLayout({
               </nav>
             </div>
           </header>
-          <main className="px-4 py-8">
+          <main className="px-4 py-4">
             {children}
           </main>
           <footer className="bg-gray-200 text-black py-4">
