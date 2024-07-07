@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import animalData from '../../data/animals.json';
+import animalData from '../../data/output/animals.json';
 import { AnimalData } from '../../types/animals';
 
 export default function AnimalsPage() {

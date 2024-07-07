@@ -1,7 +1,8 @@
 {
     "cattle": {
-        "image": "url_to_cattle_image",
-        "name": "Domestic Cattle",
+        "image": "/images/ox.svg",
+        "name": "Cattle",
+        "species": "Bos taurus",
         "nicknames": [
             "Cow",
             "Bull",
@@ -26,8 +27,9 @@
         }
     },
     "sheep": {
-        "image": "url_to_sheep_image",
-        "name": "Domestic Sheep",
+        "image": "/images/ewe.svg",
+        "name": "Sheep",
+        "species": "Ovis aries",
         "nicknames": [
             "Ewe",
             "Ram",

@@ -3,6 +3,7 @@ import { DataFrame } from "./dataframe";
 export interface AnimalDatum {
     image: string;
     name: string;
+    species: string;
     nicknames: string[];
     height: number;
     weight: number;
